@@ -10,6 +10,7 @@ int main()
 	//2024.01.18
 	//VS2022
 	//Another PC
+	//Admin test
     return 0;
 }
 
