@@ -9,7 +9,7 @@ int main()
 	//For test
 	//2024.01.18
 	//VS2022
-	//Admin test
+	//Another PC
     return 0;
 }
 
